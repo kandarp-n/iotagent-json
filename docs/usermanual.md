@@ -634,7 +634,7 @@ attribute of the device provisioning must match the value of the `protocol` fiel
 
 ### API
 
-Every plugin in the `plugins/` folder must adhere to the following API (exporting the following functions and
+Every plugin in the `bindings/` folder must adhere to the following API (exporting the following functions and
 attributes).
 
 #### function start(callback)
